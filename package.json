@@ -1,0 +1,20 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+  	"start": "script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elzbthg/activity.git"
+  },
+  "author": "elizabeth genabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elzbthg/activity/issues"
+  },
+  "homepage": "https://github.com/elzbthg/activity#readme"
+}
